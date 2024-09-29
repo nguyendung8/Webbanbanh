@@ -366,7 +366,7 @@
                             <h3>Hotline</h3>
                             <p>Phone1: (+84) 934155611</p>
                             <p>Phone2: (+84) 523514521</p>
-                            <p>Email: qshoes@gmail.com</p>
+                            <p>Email: cakeshop@gmail.com</p>
                         </div>
                         <div id="contact" class="col-md-3 col-sm-12 col-xs-12">
                             <h3>Contact Us</h3>
